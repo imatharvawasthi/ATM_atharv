@@ -1,5 +1,3 @@
-//Developed by Arash Sal Moslehian
-// @ArashSM79
 // run it online
 // https://www.edaplayground.com/x/4Wkq
 
